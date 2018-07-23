@@ -2,7 +2,7 @@
   "name": "mobx-form-validate",
   "version": "1.0.3",
   "description": "",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "babel src --out-dir lib"
